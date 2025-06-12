@@ -23,9 +23,9 @@ criaCartao(
 )
 
 criaCartao(
-'HTML',
-'Qual a diferença entre <div> e <span>?',
-'<div> é um elemento de bloco, e <span> é um elemento em linha.'
+  'HTML',
+  'Para que serve a tag <p>?',
+  'A tag <p> define um parágrafo de texto na página.'
 )
 
 criaCartao(
