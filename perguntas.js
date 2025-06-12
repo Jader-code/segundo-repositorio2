@@ -24,8 +24,8 @@ criaCartao(
 
 criaCartao(
   'HTML',
-  'Qual a diferença entre &lt;div&gt; e &lt;span&gt;?',
-  '&lt;div&gt; é um elemento de bloco, e &lt;span&gt; é um elemento em linha.'
+  'Qual a função dos elementos div e span?',
+  'Div é usado para agrupar blocos de conteúdo, enquanto span agrupa partes dentro de uma linha.'
 )
 
 criaCartao(
